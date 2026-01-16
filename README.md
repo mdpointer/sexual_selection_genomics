@@ -113,4 +113,13 @@ Take allele frequencies per treatment and compute Rxy + block jacknife to genera
 Load, wrangle and summarise the output of ss_compute_Rxy_standardised_jackknifed.R
 
 
+## Survival
+
+### Lumley_selB_survival_data.csv
+Family level survival data from Lumley et al. 2015 reanalysed in this study in combination with mutation load metrics
+
+### Survival_analysis_using_lumley_2015_data_plots.R
+Survival analysis script performing the above
+
+
 
